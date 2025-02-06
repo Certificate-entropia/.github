@@ -30,7 +30,6 @@ Empleo Digno is an AI-driven HR pipeline designed with a conversational approach
 - **Features**:
   - Centralized authentication and authorization.
   - API communication between Apply and Recruit.
-  - Integration with third-party HR and job platforms.
   - Logging and analytics handling.
 
 ## Technology Stack
