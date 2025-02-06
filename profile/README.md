@@ -38,7 +38,7 @@ Empleo Digno is an AI-driven HR pipeline designed with a conversational approach
 - **Backend**: FastAPI, Python
 - **Database**: MongoDB
 - **Infrastructure**: AWS, Docker, GitHub Actions for CI/CD
-- **Authentication**: OAuth2, JWT
+- **Authentication**: JWT
 
 ## Contribution Guidelines
 
